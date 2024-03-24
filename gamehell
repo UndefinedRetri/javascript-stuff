@@ -1,0 +1,26 @@
+// it's sooooo over
+// im cooked at this point
+// done in javascript
+
+// Player Attributes
+var health = 10;
+var attackpow = 1.1;
+var hungerpt = 10;
+
+// Enemy Attributes
+
+
+
+// Weapons
+var startweapon = attackpow * 1.25;
+
+// Functions
+function damageCheck(damageDone, weapon)
+  if(weapon == startweapon){
+
+
+
+
+
+
+  // where tf am I going with this help me 😭!!
